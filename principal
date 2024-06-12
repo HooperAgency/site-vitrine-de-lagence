@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>HOOPER FACTORY</title>
+    <title>HOOPER Agency</title>
     <link rel="stylesheet" href="styles.css">
 </head>
 <body>
@@ -19,13 +19,13 @@ Hooper Agency - Faites passer votre passion pour le basketball au niveau supéri
 .</p>
         <div>
             <a href="https://www.facebook.com/share/g8Tb17waRdNyAydt/?mibextid=LQQJ4d" target="_blank">Facebook</a>
-            <a href="https://www.instagram.com/votreprofil" target="_blank">Instagram</a>
+            <a href="https://www.instagram.com/hooper_agency?igsh=dXpwZWNtZDllYjh2&utm_source=qr"_blank">Instagram</a>
         </div>
     </header>
 
     <!-- Introduction -->
     <section id="intro">
-        <h2>Bienvenue chez [Nom de l'agence]</h2>
+        <h2>Bienvenue chez Hooper Agency</h2>
         <p>Nous sommes spécialisés en social media marketing pour vous aider à atteindre vos objectifs.</p>
         <video controls>
             <source src="votre-video.mp4" type="video/mp4">
@@ -58,7 +58,7 @@ Hooper Agency - Faites passer votre passion pour le basketball au niveau supéri
     <!-- Prendre Rendez-vous -->
     <section id="rendez-vous">
         <h2>Prenez Rendez-vous</h2>
-        <iframe src="https://calendly.com/votrecompte" width="100%" height="600"></iframe>
+        <iframe src="https://calendly.com/clementbonnet-hooper-agency/30min?preview_source=et_card&month=2024-06" width="100%" height="600"></iframe>
     </section>
 
     <footer>
