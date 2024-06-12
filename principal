@@ -1,0 +1,63 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Nom de votre Agence</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <!-- En-tête -->
+    <header>
+        <img src="votre-logo.png" alt="Logo de l'agence">
+        <h1>Nom de votre Agence</h1>
+        <p>Description de votre agence.</p>
+        <div>
+            <a href="https://www.facebook.com/votreprofil" target="_blank">Facebook</a>
+            <a href="https://www.instagram.com/votreprofil" target="_blank">Instagram</a>
+        </div>
+    </header>
+
+    <!-- Introduction -->
+    <section id="intro">
+        <h2>Bienvenue chez [Nom de l'agence]</h2>
+        <p>Nous sommes spécialisés en social media marketing pour vous aider à atteindre vos objectifs.</p>
+        <video controls>
+            <source src="votre-video.mp4" type="video/mp4">
+            Votre navigateur ne supporte pas la vidéo.
+        </video>
+    </section>
+
+    <!-- Services -->
+    <section id="services">
+        <h2>Nos Services</h2>
+        <ul>
+            <li><strong>Social Media Marketing</strong> : Gestion de vos réseaux sociaux, création de contenu, stratégies publicitaires, etc.</li>
+        </ul>
+    </section>
+
+    <!-- Président -->
+    <section id="president">
+        <h2>À propos du Président</h2>
+        <img src="votre-photo.jpg" alt="Photo du Président">
+        <p>Brève biographie du Président et son rôle au sein de l'agence.</p>
+    </section>
+
+    <!-- Témoignages -->
+    <section id="temoignages">
+        <h2>Témoignages</h2>
+        <blockquote>« Témoignage client 1. »</blockquote>
+        <blockquote>« Témoignage client 2. »</blockquote>
+    </section>
+
+    <!-- Prendre Rendez-vous -->
+    <section id="rendez-vous">
+        <h2>Prenez Rendez-vous</h2>
+        <iframe src="https://calendly.com/votrecompte" width="100%" height="600"></iframe>
+    </section>
+
+    <footer>
+        <p>&copy; [Année] Nom de votre Agence. Tous droits réservés.</p>
+    </footer>
+</body>
+</html>
