@@ -3,17 +3,22 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Nom de votre Agence</title>
+    <title>HOOPER FACTORY</title>
     <link rel="stylesheet" href="styles.css">
 </head>
 <body>
     <!-- En-tête -->
     <header>
         <img src="votre-logo.png" alt="Logo de l'agence">
-        <h1>Nom de votre Agence</h1>
-        <p>Description de votre agence.</p>
+        <h1>HOOPER AGENCY</h1>
+        <p>Hooper Agency - Boostez votre commerce de basketball grâce à une présence efficace sur les réseaux sociaux
+Bienvenue chez Hooper Agency, votre partenaire spécialisé en marketing des réseaux sociaux pour les commerces orientés basketball. Notre mission est d'aider les entreprises de basketball à attirer plus de clients et à accroître leur visibilité en ligne grâce à des stratégies de marketing social media sur mesure.
+Pourquoi choisir Hooper Agency ? Parce que nous comprenons le marché unique du basketball et les besoins spécifiques de votre commerce. Que vous soyez un magasin d'équipements, un centre de formation, ou une boutique de vêtements de basketball, nous savons comment capter l'attention de votre public cible et transformer votre présence sur les réseaux sociaux en un outil puissant de croissance.
+Nous offrons des services complets allant de la gestion de comptes, la création de contenu captivant, à l’élaboration de campagnes publicitaires efficaces. Laissez-nous vous aider à maximiser votre potentiel en ligne et à transformer vos adeptes en clients fidèles.
+Hooper Agency - Faites passer votre passion pour le basketball au niveau supérieur grâce à une stratégie social media qui marque des points !
+.</p>
         <div>
-            <a href="https://www.facebook.com/votreprofil" target="_blank">Facebook</a>
+            <a href="https://www.facebook.com/share/g8Tb17waRdNyAydt/?mibextid=LQQJ4d" target="_blank">Facebook</a>
             <a href="https://www.instagram.com/votreprofil" target="_blank">Instagram</a>
         </div>
     </header>
